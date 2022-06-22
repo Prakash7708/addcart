@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prakash7708/addcart/static/css/main.f71067c0.css",
+    "main.js": "/Prakash7708/addcart/static/js/main.7693d80f.js",
+    "static/js/787.d0774022.chunk.js": "/Prakash7708/addcart/static/js/787.d0774022.chunk.js",
+    "index.html": "/Prakash7708/addcart/index.html",
+    "main.f71067c0.css.map": "/Prakash7708/addcart/static/css/main.f71067c0.css.map",
+    "main.7693d80f.js.map": "/Prakash7708/addcart/static/js/main.7693d80f.js.map",
+    "787.d0774022.chunk.js.map": "/Prakash7708/addcart/static/js/787.d0774022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f71067c0.css",
+    "static/js/main.7693d80f.js"
+  ]
+}
